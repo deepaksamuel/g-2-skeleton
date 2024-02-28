@@ -1,0 +1,8 @@
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+g2esoftDict.cxx
+*.so
+*.pcm
+*.rootmap
+Makefile
